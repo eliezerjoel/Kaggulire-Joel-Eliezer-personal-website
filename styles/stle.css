@@ -43,3 +43,21 @@ div.content{
         float: none;
     }
 }
+.cont{
+        background-color: aliceblue;
+        padding: 5px;
+        width: 50%;
+        border-radius: 5px;
+        display: inline-block;
+        font-size: larger;
+        margin: 20%;
+        margin-top: 5%;}
+
+#content{
+    background-image: url(../media/17.jpg);
+    height: 90%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
