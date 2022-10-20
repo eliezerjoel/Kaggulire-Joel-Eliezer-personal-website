@@ -1,3 +1,15 @@
+body, html {
+    height: 100%;
+}
+.bg{
+    background-image: url(../media/17.jpg);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
 .sidebar{
     margin: 0;
     padding: o;
@@ -24,7 +36,7 @@
 div.content{
     margin-left: 200px;
     padding: 1px 16px;
-    height: 100%;
+    height: auto;
     background-color: #B1624EFF;
 }
 @media screen and (max-width:700px) {
